@@ -6,11 +6,13 @@ A complete step-by-step roadmap to become a **Data Analyst**, from fundamentals 
 
 ## 1. Introduction
 
-It's a multidisciplinary field that looks at raw and structured data sets and provides potentially actionable insights. The field of data science looks at ensuring that we are asking the right questions as opposed to finding exact answers. Data Scientists require skillsets centered on Computer Science, Mathematics, and Statistics. Data Scientists use several unique techniques to analyze data such as machine learning, trends, linear regressions, and predictive modeling. The tools that data scientists use to apply these techniques include Python and R.
+Data Analysis is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
+
+In a world drowning in information, a Data Analyst acts as a translator. You take "noise" (raw, messy data) and turn it into a "story" (insights) that a business or organization can use to solve problems.
 
 - These are small differences between each job title:
 
-![Data-Science-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/05340015-21f8-42dd-a8a0-0aee222edf8c)
+![Data different roles](Images/Cat.png)
 
 - For more details about each job title, you can see this [Arabic video](https://www.youtube.com/watch?v=3Y8j11j6su8) or this other [video](https://youtu.be/XW0YptcgZSk?si=0R5_nPbsKP2Sdm8f).
 
