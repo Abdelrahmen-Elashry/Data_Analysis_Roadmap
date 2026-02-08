@@ -4,21 +4,22 @@ A complete step-by-step roadmap to become a **Data Analyst**, from fundamentals 
 
 ---
 
-## 1. Introduction
+## Introduction
 
 Data Analysis is the process of inspecting, cleaning, transforming, and visualizing data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
 In a world full of data, a Data Analyst acts as a translator. You take "noise" (messy data) and turn it into a "story" (insights) that a business or organization can use to solve problems.
 
 Remember, remember, remember, Data Analysis is all about the mindset, not tools at all. If you gain this mindset, you can accomplish any task, whatever the tool you use!!
-Each tool we will discuss in this roadmap can be used to make a full data analysis project, but each tool is specialized in one or more things, so it is a best practice to learn them all so you use the best tool for the task you want to make.
 
-But before diving into the tools you should know the life cycle of the data first and the different roles in the field of data.
+Each tool we will discuss in this roadmap can be used to make a full data analysis project, but each tool is specialized in one or more tasks, so it is a best practice to learn them as much as possible as you can so you use the right tool for the right task.
+
+But before diving into the tools, you should know the life cycle of the data first and the different roles in the field of data.
 
 - Here are the differences between each job title:
 
 ![Data different roles](Images/Cat.png)
 
-- Check also these videos from these seniors, [Video from Eng. Ahmed Abulkhair](https://www.youtube.com/watch?v=Jbv3InIMsbQ) or this [Video from Eng. Yasser Alaa](https://www.youtube.com/watch?v=PVNsxafgpPo).
+- Check also these videos from Data leaders, [Video from Eng. Ahmed Abulkhair](https://www.youtube.com/watch?v=Jbv3InIMsbQ) or this [Video from Eng. Yasser Alaa](https://www.youtube.com/watch?v=PVNsxafgpPo).
 
 ---
 
@@ -48,14 +49,6 @@ You **don’t need advanced math**, but you must understand:
 - Sampling & Bias
 
 📌 *Goal:* Understand what numbers are saying, not just calculate them.
-
----
-
-### 🔹 Analytical Thinking
-- Asking the right questions
-- Breaking problems into smaller parts
-- Understanding business context
-- Defining KPIs & metrics
 
 ---
 
