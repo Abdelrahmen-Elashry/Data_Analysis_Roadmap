@@ -23,7 +23,7 @@ But before diving into the tools, you should know the life cycle of the data fir
 
 ---
 
-## 🧭 Overview
+## Overview
 
 Data Analysis is about:
 - Collecting data
@@ -36,9 +36,25 @@ This roadmap is structured into **phases**, where each phase builds on the previ
 
 ---
 
-## 🟢 Phase 0: Foundations (Must-Have Basics)
+## Phase 0: Foundations
 
-### 🔹 Math & Statistics
+### Understanding Data Analysis
+To gain a solid foundations you must understand:
+- Data Literacy
+- What exactly Data Analysis is
+- What are the tools that you're gonna use
+
+![Data Analysis Roadmap](Images/Roadmap.png)
+
+#### Resources
+- [Data Literacy course by Maven Analytics](https://mavenanalytics.io/course/data-literacy-foundations)
+- [The Data Analysis Process](https://www.youtube.com/watch?v=UNoFXGxk3SI) Arabic video by Eng. Mohamed Elassal
+- [What Does a Data Analyst Actually Do?](https://www.youtube.com/watch?v=ywZXpfdqg1o)
+
+---
+
+## Phase 1: Math & Statistics
+
 You **don’t need advanced math**, but you must understand:
 - Mean, Median, Mode
 - Variance & Standard Deviation
@@ -52,7 +68,7 @@ You **don’t need advanced math**, but you must understand:
 
 ---
 
-## 🟢 Phase 1: Excel / Spreadsheets (Core Skill)
+## Phase 1: Excel / Spreadsheets (Core Skill)
 
 Excel is still **heavily used in industry**.
 
