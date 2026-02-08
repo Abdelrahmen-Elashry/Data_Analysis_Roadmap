@@ -67,7 +67,7 @@ You **don’t need advanced math**, but you must understand:
 
 ---
 
-## Phase 1: Excel / Spreadsheets (Core Skill)
+## Phase 2: Excel / Spreadsheets (Core Skill)
 
 Excel is still **heavily used in industry**.
 
@@ -96,7 +96,7 @@ Excel is still **heavily used in industry**.
 
 ---
 
-## 🟢 Phase 2: SQL (Data Extraction)
+## Phase 3: SQL (Data Extraction)
 
 SQL is **mandatory** for data analysts.
 
@@ -135,7 +135,7 @@ SQL is **mandatory** for data analysts.
 
 ---
 
-## 🟢 Phase 3: Python for Data Analysis
+## Phase 4: Python for Data Analysis
 
 Python is used for **automation, deeper analysis, and modeling**.
 
@@ -171,7 +171,7 @@ Python is used for **automation, deeper analysis, and modeling**.
 
 ---
 
-## 🟢 Phase 4: Data Visualization & BI Tools
+## Phase 5: Data Visualization & BI Tools
 
 Visualization turns analysis into **insight**.
 
@@ -203,23 +203,7 @@ Skills to master:
 
 ---
 
-## 🟢 Phase 5: Statistics for Data Analysis
-
-Now we go deeper 📈
-
-### 🔹 Core Topics
-- Descriptive statistics
-- Inferential statistics
-- Hypothesis testing
-- Confidence intervals
-- A/B testing
-- Regression (simple & multiple)
-
-📌 *Goal:* Make **data-driven decisions**, not guesses.
-
----
-
-## 🟢 Phase 6: Business & Domain Knowledge
+## Phase 6: Business & Domain Knowledge
 
 A great analyst understands **context**, not just data.
 
@@ -238,7 +222,7 @@ A great analyst understands **context**, not just data.
 
 ---
 
-## 🟢 Phase 7: Projects & Portfolio (VERY IMPORTANT)
+## Phase 7: Projects & Portfolio (VERY IMPORTANT)
 
 Your portfolio matters **more than certificates**.
 
@@ -257,7 +241,7 @@ Your portfolio matters **more than certificates**.
 
 ---
 
-## 🟢 Phase 8: Git, GitHub & Documentation
+## Phase 8: Git, GitHub & Documentation
 
 ### 🔹 Git Basics
 - Repositories
@@ -271,43 +255,6 @@ Your portfolio matters **more than certificates**.
 - Visuals & screenshots
 
 📌 *Your GitHub is your CV.*
-
----
-
-## 🟢 Phase 9: Interview Preparation
-
-### 🔹 Technical
-- SQL queries
-- Excel problems
-- Python data tasks
-- Statistics questions
-
-### 🔹 Behavioral
-- Explaining projects
-- Decision-making process
-- Business impact
-
----
-
-## 🟢 Tools Summary
-
-| Category | Tools |
-|--------|------|
-| Spreadsheets | Excel, Google Sheets |
-| Databases | MySQL, PostgreSQL |
-| Programming | Python |
-| Visualization | Power BI, Tableau |
-| Version Control | Git, GitHub |
-
----
-
-## 🏁 Final Advice
-
-- Learn **by doing**
-- Build **real projects**
-- Focus on **understanding**, not memorization
-- Communicate insights clearly
-- Keep improving 🚀
 
 ---
 
