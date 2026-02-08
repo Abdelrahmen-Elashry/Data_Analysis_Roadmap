@@ -6,15 +6,18 @@ A complete step-by-step roadmap to become a **Data Analyst**, from fundamentals 
 
 ## 1. Introduction
 
-Data Analysis is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
+Data Analysis is the process of inspecting, cleaning, transforming, and visualizing data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
+In a world full of data, a Data Analyst acts as a translator. You take "noise" (messy data) and turn it into a "story" (insights) that a business or organization can use to solve problems.
+Remember, remember, remember, Data Analysis is all about the mindset, not tools at all. If you gain this mindset, you can accomplish any task, whatever the tool you use!!
+Each tool we will discuss in this roadmap can be used to make a full data analysis project, but each tool is specialized in one or more things, so it is a best practice to learn them all so you use the best tool for the task you want to make.
 
-In a world drowning in information, a Data Analyst acts as a translator. You take "noise" (raw, messy data) and turn it into a "story" (insights) that a business or organization can use to solve problems.
+But before diving into the tools you should know the life cycle of the data first and the different roles in the field of data.
 
-- These are small differences between each job title:
+- Here are the differences between each job title:
 
 ![Data different roles](Images/Cat.png)
 
-- For more details about each job title, you can see this [Arabic video](https://www.youtube.com/watch?v=3Y8j11j6su8) or this other [video](https://youtu.be/XW0YptcgZSk?si=0R5_nPbsKP2Sdm8f).
+- Check also these videos from these seniors, [Video from Mr. Ahmed Abulkhair](https://www.youtube.com/watch?v=3Y8j11j6su8) or this [Video from Mr. Yasser Alaa](https://youtu.be/XW0YptcgZSk?si=0R5_nPbsKP2Sdm8f).
 
 ---
 
