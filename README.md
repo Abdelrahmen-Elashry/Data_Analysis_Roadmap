@@ -36,9 +36,8 @@ This roadmap is structured into **phases**, where each phase builds on the previ
 
 ---
 
-## Phase 0: Foundations
+## Phase 0: Understanding Data Analysis
 
-### Understanding Data Analysis
 To gain a solid foundations you must understand:
 - Data Literacy
 - What exactly Data Analysis is
