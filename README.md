@@ -202,6 +202,8 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
   - Filtering & grouping
   - Handling missing values
   - Data transformation
+  - Exploratory Data Analysis (EDA)
+  - Feature Engineering
   
 #### Resources (Choose one Course)
 - [Data Manipulation with Pandas:](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas) 4-hour course from **DataCamp** (requires subscription).
@@ -242,7 +244,7 @@ Choose **at least one**:
 - **Power BI**
 - **Tableau**
 
-### Resources (Choose one Course)
+### Resources (Choose at least one Course)
 - [Data Analysis with Power BI (Arabic):](https://youtube.com/playlist?list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3&si=l5RcaAwGLLBJQBrq) YouTube playlist by **Mohamed Alassal**.
 - [Introduction to Power BI:](https://app.datacamp.com/learn/courses/introduction-to-power-bi) 4-hour course from **DataCamp** (requires subscription).
 - [Power BI Tutorials:](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) YouTube playlist by **Alex the Analyst**.
@@ -273,13 +275,11 @@ A great analyst understands **context**, not just data.
 ## Phase 7: Git, GitHub
 
 ### Key Git Commands
-- **`git init`**: Initializes a new local repository. This is where the magic begins.
-- **`git add`**: The "Staging" area. It tells Git which changes you want to include in your next snapshot.
-- **`git commit`**: The "Save" point. Records your staged changes with a descriptive message (e.g., "Cleaned null values in sales data").
-- **`git push`**: Uploads your local commits to a remote server like **GitHub**. This is how you share your work.
-- **`git pull`**: The opposite of push. It "grabs" the latest changes from GitHub and merges them into your local machine.
-- **`git merge`**: Combines work from different branches (e.g., merging a "feature" branch back into your "main" project).
-- **`git clone`**: Downloads an existing project from GitHub to your computer so you can start working on it.
+- **`git add`**
+- **`git push`**
+- **`git pull`**
+- **`git merge`**
+- **`git clone`**
 
 ### GitHub & Portfolio Essentials
 - **Repositories (Repos):** Think of these as your project folders on the cloud.
