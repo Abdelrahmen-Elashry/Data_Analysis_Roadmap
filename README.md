@@ -222,7 +222,7 @@ A great analyst understands **context**, not just data.
 
 ---
 
-## Phase 8: Git, GitHub & Documentation
+## Phase 7: Git, GitHub
 
 ### 🔹 Git Basics
 - Repositories
@@ -230,14 +230,9 @@ A great analyst understands **context**, not just data.
 - Branches
 - README files
 
-### 🔹 Documentation
-- Clear project structure
-- Markdown formatting
-- Visuals & screenshots
-
 ---
 
-## Info about the resources in this roadmap
+## The resources in this roadmap
 
 ### High-Impact Free Resources (YouTube)
 YouTube is a perfect resource for any Data Analyst. We highly recommend following these industry leaders:
@@ -254,17 +249,18 @@ YouTube is a perfect resource for any Data Analyst. We highly recommend followin
 
 [Kevin Stratvert](https://www.youtube.com/@KevinStratvert) An ex-Microsoft Product Manager. Covers general tech, tutorials on Excel, AI tools, and Microsoft 365.
 
+
 ### Premium Learning Platforms
 
-When you're ready for a more structured curriculum with certifications, these platforms are the heavy hitters:
+When you're ready for a more structured curriculum with certifications, these platforms are the best choice for you:
 
 [Maven Analytics (Top Choice):](https://app.mavenanalytics.io/) Widely considered the best platform for Data Analysts.  
 Tip: While it is a paid service, they are known for the free access weeks, so keep an eye out to watch their high-quality content for free.
 
 [DataCamp:](https://app.datacamp.com/) Known for its interactive "learn-by-doing" coding environment.  
-Tip: DataCamp is very generous with scholarships and financial aid, making it highly accessible if you apply.
+Tip: DataCamp is very generous with scholarships, making it fully accessible if you apply for one.
 
-[Coursera:](https://www.coursera.org/) The best platform for big organizations' courses like GOOGLE, IBM, Stanford University, etc.  
+[Coursera:](https://www.coursera.org/) The best platform for big organization courses like GOOGLE, IBM, Stanford University, etc.  
 Tip: You can apply for financial aid from a mobile to get the course 100% free or from a PC and get 90% discount.
 
 [365 Data Science:](https://365datascience.com/) A great all-in-one solution if you want a guided path from math and statistics all the way to machine learning.
@@ -272,4 +268,4 @@ Tip: It is paid like the others, but you can wait for the free access weeks like
 
 ---
 
-Made by [Abdelrahmen Elashry](https://github.com/Abdelrahmen-Elashry).
+Made by [Abdelrahmen Elashry](https://github.com/Abdelrahmen-Elashry)
