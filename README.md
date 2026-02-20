@@ -45,20 +45,16 @@ YouTube is a perfect resource for any Data Analyst. We highly recommend followin
 
 When you're ready for a more structured curriculum with certifications, these platforms are the heavy hitters:
 
-[Maven Analytics (Top Choice):](https://app.mavenanalytics.io/) Widely considered the best platform for Data Analysts.
-
+[Maven Analytics (Top Choice):](https://app.mavenanalytics.io/) Widely considered the best platform for Data Analysts.  
 Tip: While it is a paid service, they are known for the free access weeks, so keep an eye out to watch their high-quality content for free.
 
-[DataCamp:](https://app.datacamp.com/) Known for its interactive "learn-by-doing" coding environment.
-
+[DataCamp:](https://app.datacamp.com/) Known for its interactive "learn-by-doing" coding environment.  
 Tip: DataCamp is very generous with scholarships and financial aid, making it highly accessible if you apply.
 
-[Coursera:](https://www.coursera.org/) The best platform for big organizations' courses like GOOGLE, IBM, Stanford University, etc.
-
+[Coursera:](https://www.coursera.org/) The best platform for big organizations' courses like GOOGLE, IBM, Stanford University, etc.  
 Tip: You can apply for financial aid from a mobile to get the course 100% free or from a PC and get 90% discount.
 
 [365 Data Science:](https://365datascience.com/) A great all-in-one solution if you want a guided path from math and statistics all the way to machine learning.
-
 Tip: It is paid like the others, but you can wait for the free access weeks like the rest of the platforms.
 
 ---
