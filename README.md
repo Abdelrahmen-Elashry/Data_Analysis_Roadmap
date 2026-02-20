@@ -244,7 +244,7 @@ Choose **at least one**:
 - **Power BI**
 - **Tableau**
 
-### Resources (Choose at least one Course)
+#### Resources (Choose at least one Course)
 - [Data Analysis with Power BI (Arabic):](https://youtube.com/playlist?list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3&si=l5RcaAwGLLBJQBrq) YouTube playlist by **Mohamed Alassal**.
 - [Introduction to Power BI:](https://app.datacamp.com/learn/courses/introduction-to-power-bi) 4-hour course from **DataCamp** (requires subscription).
 - [Power BI Tutorials:](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) YouTube playlist by **Alex the Analyst**.
@@ -253,7 +253,7 @@ Choose **at least one**:
 
 ---
 
-## Phase 6: Git, GitHub
+## Phase 6: Git & GitHub
 
 ### Key Git Commands
 - **`git add`**
