@@ -34,6 +34,34 @@ Data Analysis is about:
 
 This roadmap is structured into **phases**, where each phase builds on the previous one.
 
+### Information about the resources in this roadmap
+
+1. High-Impact Free Resources (YouTube)
+YouTube is a perfect resource for any Data Analyst. We highly recommend following these industry leaders:
+
+[Mohamed Alassal:](https://www.youtube.com/@mohamedalassaal)
+
+[Almunthir Saffan:](https://www.youtube.com/@ALMunthirSaffan)
+
+[Baraa Khatib:](https://www.youtube.com/@DataWithBaraa)
+
+[Alex the Analyst:](https://www.youtube.com/@AlexTheAnalyst)
+
+[Maven Analytics:](https://www.youtube.com/@MavenAnalytics)
+
+[Kevin Stratvert](https://www.youtube.com/@KevinStratvert)
+
+2. Premium Learning Platforms
+When you're ready for a more structured curriculum with certifications, these platforms are the heavy hitters:
+
+[Maven Analytics (Top Choice):]() Widely considered the best platform for Data Analysts. While it is a paid service, they are known for hosting "Free Access Weeks"—keep an eye out to binge-watch their high-quality content for free.
+
+[DataCamp:]() Known for its interactive "learn-by-doing" coding environment.
+
+Pro Tip: DataCamp is very generous with scholarships and financial aid, making it highly accessible if you apply.
+
+[365 Data Science:]() A great all-in-one solution if you want a guided path from math and statistics all the way to machine learning.
+
 ---
 
 ## Phase 0: Understanding Data Analysis
@@ -78,7 +106,7 @@ Goal: Understand what numbers are saying, not just calculate them.
 
 Excel is still **heavily used in industry**; if you master it, you will master the rest of the tools.
 
-### Essential Skills
+### 2.1 Essential Skills
 - Data types & formatting
 - Sorting & filtering
 - Conditional formatting
@@ -89,15 +117,15 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 - Date & time functions
 
 #### Resources (Choose one Course)
-- [Excel Essentials:](https://youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&si=8zplj35CZRG6roah) Recommended Arabic playlist from Alassal (Watch until the 20th video).
-- [Mastering Excel:](https://youtube.com/playlist?list=PLof3yw6ZFPFjik6ifGwXs68DLS60OPHYM&si=GOIUaBLSfTUMv-B1) Arabic playlist from ALMunthirSaffan.
-- [Excel for Beginners:](https://youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K&si=V1cE7bMnVYERK9Ip) Youtube playlist from KevinStratvert (Watch until the 37th video).
+- [Excel Essentials:](https://youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&si=8zplj35CZRG6roah) Recommended Arabic playlist from Mohamed Alassal (Watch until the 20th video).
+- [Mastering Excel:](https://youtube.com/playlist?list=PLof3yw6ZFPFjik6ifGwXs68DLS60OPHYM&si=GOIUaBLSfTUMv-B1) Arabic playlist from ALMunthir Saffan.
+- [Excel for Beginners:](https://youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K&si=V1cE7bMnVYERK9Ip) Youtube playlist from Kevin Stratvert (Watch until the 37th video).
 - [Excel Foundations:](https://mavenanalytics.io/course/microsoft-excel-foundations) 9-hour course from Maven Analytics (requires subscription).
 - [Excel Fundamentals:](https://app.datacamp.com/learn/skill-tracks/excel-fundamentals) 16-hour skill track from DataCamp (requires subscription).
 
 ---
 
-### Advanced Excel
+### 2.2 Advanced Excel
 - Pivot Tables & Pivot Charts
 - Power Query
 - Power Pivot & DAX
