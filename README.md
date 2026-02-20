@@ -63,7 +63,7 @@ You **don’t need advanced statistics**, but you must understand:
 - Normal distribution
 - Sampling & Bias
 
-📌 Goal: Understand what numbers are saying, not just calculate them.
+Goal: Understand what numbers are saying, not just calculate them.
 
 #### Resources (Choose at least one Course)
 - [Introduction to Statistics:](https://app.datacamp.com/learn/courses/introduction-to-statistics) 4-hour course from DataCamp (requires subscription).
@@ -77,7 +77,7 @@ You **don’t need advanced statistics**, but you must understand:
 
 Excel is still **heavily used in industry**.
 
-### 🔹 Essential Skills
+### Essential Skills
 - Data types & formatting
 - Sorting & filtering
 - Conditional formatting
@@ -87,18 +87,19 @@ Excel is still **heavily used in industry**.
 - Lookup functions (`VLOOKUP`, `XLOOKUP`, `INDEX + MATCH`)
 - Date & time functions
 
+#### Resources (Choose at least one Course)
+- [Excel Essentials:](https://youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&si=8zplj35CZRG6roah) Recommended Arabic playlist from Alassal (Watch until the 20th video).
+- [Excel for Beginners:](https://youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K&si=V1cE7bMnVYERK9Ip) Youtube playlist from KevinStratvert (Watch until the 37th video).
+- [Excel Foundations:](https://mavenanalytics.io/course/microsoft-excel-foundations) 9-hour course from Maven Analytics (requires subscription).
+- [Introduction to Excel:](https://app.datacamp.com/learn/courses/introduction-to-excel) 4-hour course from DataCamp (requires subscription).
+
 ---
 
-### 🔹 Advanced Excel
+### Advanced Excel
 - Pivot Tables & Pivot Charts
-- Data validation
-- Power Query (ETL basics)
+- Power Query
+- Power Pivot & DAX
 - Dashboards in Excel
-
-📌 **Project Ideas**
-- Sales dashboard
-- Student grades analysis
-- Finance expense tracker
 
 ---
 
