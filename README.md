@@ -65,7 +65,7 @@ You **don’t need advanced statistics**, but you must understand:
 
 Goal: Understand what numbers are saying, not just calculate them.
 
-#### Resources (Choose at least one Course)
+#### Resources (Choose one Course)
 - [Introduction to Statistics:](https://app.datacamp.com/learn/courses/introduction-to-statistics) 4-hour course from DataCamp (requires subscription).
 - [Introduction to Statistics:](https://mavenanalytics.io/course/statistics-for-data-analysis) 13-hour course from Maven Analytics (requires subscription)
 - [Statistics 1:](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=4EIuMCWDL-J07u6Q) Simple YouTube playlist from Simple Learning Pro.
@@ -88,11 +88,12 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 - Lookup functions (`VLOOKUP`, `XLOOKUP`, `INDEX + MATCH`)
 - Date & time functions
 
-#### Resources (Choose at least one Course)
+#### Resources (Choose one Course)
 - [Excel Essentials:](https://youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&si=8zplj35CZRG6roah) Recommended Arabic playlist from Alassal (Watch until the 20th video).
+- [Mastering Excel:](https://youtube.com/playlist?list=PLof3yw6ZFPFjik6ifGwXs68DLS60OPHYM&si=GOIUaBLSfTUMv-B1) Arabic playlist from ALMunthirSaffan.
 - [Excel for Beginners:](https://youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K&si=V1cE7bMnVYERK9Ip) Youtube playlist from KevinStratvert (Watch until the 37th video).
 - [Excel Foundations:](https://mavenanalytics.io/course/microsoft-excel-foundations) 9-hour course from Maven Analytics (requires subscription).
-- [Introduction to Excel:](https://app.datacamp.com/learn/courses/introduction-to-excel) 4-hour course from DataCamp (requires subscription).
+- [Excel Fundamentals:](https://app.datacamp.com/learn/skill-tracks/excel-fundamentals) 16-hour skill track from DataCamp (requires subscription).
 
 ---
 
@@ -101,6 +102,12 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 - Power Query
 - Power Pivot & DAX
 - Dashboards in Excel
+
+#### Resources (Choose one Course)
+- [Data Analysis with Excel:](https://youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT&si=kROdukJApRFlwCX3) Recommended Arabic playlist from Alassal.
+- [Power Query, Power Pivot & DAX:](https://mavenanalytics.io/course/power-query-power-pivot-dax) 12-hour golden course from Maven Analytics (requires subscription).
+- [Data Analysis with Excel Power Tools:](https://app.datacamp.com/learn/skill-tracks/data-analysis-with-excel-power-tools) 9-hour skill track from DataCamp (requires subscription).
+- [Excel for Data Analysis:](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=4384s) Comprehensive YouTube video from LukeBarousse.
 
 ---
 
