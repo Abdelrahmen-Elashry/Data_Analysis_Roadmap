@@ -32,7 +32,8 @@ Data Analysis is about:
 - Visualizing insights
 - Communicating results to support decision-making
 
-This roadmap is structured into **phases**, where each phase builds on the previous one.
+This roadmap is structured into **phases**, where each phase builds on the previous one.  
+All the info about the resources will be in the end of the repo.
 
 ---
 
@@ -89,8 +90,8 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 - Date & time functions
 
 #### Resources (Choose one Course)
-- [Excel Essentials:](https://youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&si=8zplj35CZRG6roah) Recommended Arabic playlist from Mohamed Alassal (Watch until the 20th video).
-- [Mastering Excel:](https://youtube.com/playlist?list=PLof3yw6ZFPFjik6ifGwXs68DLS60OPHYM&si=GOIUaBLSfTUMv-B1) Arabic playlist from ALMunthir Saffan.
+- [Excel Essentials:](https://youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&si=8zplj35CZRG6roah) Recommended Arabic YouTube playlist from Mohamed Alassal (Watch until the 20th video).
+- [Mastering Excel:](https://youtube.com/playlist?list=PLof3yw6ZFPFjik6ifGwXs68DLS60OPHYM&si=GOIUaBLSfTUMv-B1) Arabic YouTube playlist from ALmunthir Saffan.
 - [Excel for Beginners:](https://youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K&si=V1cE7bMnVYERK9Ip) Youtube playlist from Kevin Stratvert (Watch until the 37th video).
 - [Excel Foundations:](https://mavenanalytics.io/course/microsoft-excel-foundations) 9-hour course from Maven Analytics (requires subscription).
 - [Excel Fundamentals:](https://app.datacamp.com/learn/skill-tracks/excel-fundamentals) 16-hour skill track from DataCamp (requires subscription).
@@ -104,10 +105,10 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 - Dashboards in Excel
 
 #### Resources (Choose one Course)
-- [Data Analysis with Excel:](https://youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT&si=kROdukJApRFlwCX3) Recommended Arabic playlist from Alassal.
+- [Data Analysis with Excel:](https://youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT&si=kROdukJApRFlwCX3) Recommended Arabic playlist from Mohamed Alassal.
 - [Power Query, Power Pivot & DAX:](https://mavenanalytics.io/course/power-query-power-pivot-dax) 12-hour golden course from Maven Analytics (requires subscription).
 - [Data Analysis with Excel Power Tools:](https://app.datacamp.com/learn/skill-tracks/data-analysis-with-excel-power-tools) 9-hour skill track from DataCamp (requires subscription).
-- [Excel for Data Analysis:](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=4384s) Comprehensive YouTube video from LukeBarousse.
+- [Excel for Data Analysis:](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=4384s) Comprehensive YouTube video from Luke Barousse.
 
 ---
 
@@ -224,7 +225,7 @@ A great analyst understands **context**, not just data.
 
 ## Phase 7: Git, GitHub
 
-### 🔹 Git Basics
+### Git Basics
 - Repositories
 - Commits
 - Branches
