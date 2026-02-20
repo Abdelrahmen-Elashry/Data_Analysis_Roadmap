@@ -178,25 +178,40 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 - Constructors (`__init__`).
 
 #### Resources (Choose one Course)
-- [Object-Oriented Programming in Python:](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) 4-hour course by **DataCamp**.
+- [Object-Oriented Programming in Python:](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) 4-hour course by **DataCamp** (requires subscription).
 - [Python OOP Mastery (Arabic):](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1&si=RI3FIJd0Qod3kTT5) Practical YouTube course by **Codezilla**.
+- [Object Oriented Programming with Python:](https://www.youtube.com/watch?v=Ej_02ICOIgs) 2-hour YouTube video by **freeCodeCamp**.
 
 ---
 
 ### Data Analysis Libraries
-- **NumPy** → numerical computing
-- **Pandas** → data manipulation
+
+- **NumPy** for numerical computing
+
+#### Resources (Choose one Course)
+- [Learn Numpy in 1 hour:](https://www.youtube.com/watch?v=VXU4LSAQDSc) 1-hour YouTube video by **Bro Code**.
+- [Introduction to Numpy:](https://app.datacamp.com/learn/courses/introduction-to-numpy) 4-hour Course from **DataCamp** (You know what I will type here).
+- [Numpy | Osama Elzero](https://youtube.com/playlist?list=PLUgz8T_NoatsJCH-DmieQhqhSL2WBvlm-&si=peTE6uOE2XKfGF6T) 1-hour YouTube course from **Osama Elzero**.
+
+- **Pandas** for data manipulation
   - DataFrames
   - Filtering & grouping
   - Handling missing values
   - Data transformation
-- **Matplotlib / Seaborn** → visualization
+  
+#### Resources (Choose one Course)
+- [Data Manipulation with Pandas:](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas) 4-hour course from **DataCamp** (requires subscription).
+- [Pandas Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=JYWivPwbFG1nNZWt) 6-hours YouTube playlist by **Corey Schafer**
+- [Data Analysis with Python (Arabic):](https://youtube.com/playlist?list=PLof3yw6ZFPFg5W3Z3sv6GzY6WvvXBqtnD&si=st8BaWwv2hol-Gi5) YouTube playlist from **Almunthir Saffan**
+- [Complete Pandas Tutorial:](https://www.youtube.com/watch?v=2uvysYbKdjM) 1.5-hour YouTube video by **Keith Galli**.
+
+- **Matplotlib / Seaborn** for visualization
 
 #### Resources (Choose one Course)
-- [Data Analysis with Python (Arabic):](https://youtube.com/playlist?list=PLuXY3ddo_8nzp_s2GZ7TzM4uL9R38L4T_) A high-quality, practical series by **Codezilla**.
-- [Python for Data Analysis (Arabic):](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) Detailed library deep-dives by **Elzero Web School**.
-- [Data Analysis with Python Full Course:](https://youtu.be/r-uOLPPkpGk?si=hC4yB7C9_qfV_fGj) A comprehensive 10-hour practical bootcamp by **freeCodeCamp**.
-- [Python Data Analysis:](https://learn.365datascience.com/courses/python-data-analysis/) Professional certification track by **365 Data Science** (Subscription).
+- [Introduction to Data Visualization with Matplotlib:](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) 4-hour course from **DataCamp** (requires subscription).
+- [Matplotlib Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=sCfulKEUT5IOYykP) 4-hours YouTube playlist by **Corey Schafer**.
+- [Introduction to Data Visualization with Seaborn:](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn) 4-hour course from **DataCamp** (requires subscription).
+- [Seaborn Beginner to Pro:](https://youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2&si=idYsDKPmanYKO186) 4-hour YouTube playlist by **Learnerea**.
 
 ---
 
