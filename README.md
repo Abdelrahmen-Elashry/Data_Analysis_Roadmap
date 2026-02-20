@@ -65,6 +65,12 @@ You **don’t need advanced math**, but you must understand:
 
 📌 *Goal:* Understand what numbers are saying, not just calculate them.
 
+#### Resources (Choose at least one Course)
+- [Introduction to Statistics:](https://app.datacamp.com/learn/courses/introduction-to-statistics) 4-hour course from DataCamp (requires subscription).
+- [Statistics 1:](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=4EIuMCWDL-J07u6Q) Simple YouTube playlist from Simple Learning Pro.
+- [Foundation of Statistical Analysis:](https://youtube.com/playlist?list=PLVpJGVBmPnw3eRSzC90oXA6gBcG-nEYIe&si=dGQf1cRDuFW32Q3V) Full YouTube playlist from Professor X.
+- [Statistics and Probability 101:](https://youtube.com/playlist?list=PL-cKUB-e2KiuXuUQ9POZoayIOV2oOs5GL&si=2Li9R9PBpuHOoQ8T) 6-hour YouTube playlist from ElhosseiniAcademy.
+
 ---
 
 ## Phase 2: Excel / Spreadsheets (Core Skill)
