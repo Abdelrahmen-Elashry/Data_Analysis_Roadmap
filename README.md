@@ -253,7 +253,29 @@ Choose **at least one**:
 
 ---
 
-## Phase 6: Business & Domain Knowledge
+## Phase 6: Git, GitHub
+
+### Key Git Commands
+- **`git add`**
+- **`git push`**
+- **`git pull`**
+- **`git merge`**
+- **`git clone`**
+
+### GitHub & Portfolio Essentials
+- **Repositories (Repos):** Think of these as your project folders on the cloud.
+- **Branches:** Parallel versions of your project. Use these to experiment without breaking your main code.
+- **README.md:** The most important file. It’s your project’s "homepage" where you explain your insights and findings to recruiters.
+- **GitHub Pages:** A free way to host and show off your live data dashboards and portfolios.
+
+#### Resources (Choose one Course)
+- [Learn Git and Github (Arabic):](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=8hXdJJI6H54oVb_X) Recommended YouTube playlist by **Osama Elzero**.
+- [Git & GitHub (Arabic):](https://almdrasa.com/tracks/programming-foundations/courses/git-github/) Free Course from **Almadrasa** by **Ahmed Fathy**.
+- [Big Data With Arabic | Git & GitHub (Arabic):](https://www.youtube.com/watch?v=Q6G-J54vgKc) 6-hour YouTube video by **Big Data بالعربي**.
+
+---
+
+## Phase 7: Business & Domain Knowledge
 
 A great analyst understands **context**, not just data.
 
@@ -269,28 +291,6 @@ A great analyst understands **context**, not just data.
 - Healthcare analytics
 - Education analytics
 - Product analytics
-
----
-
-## Phase 7: Git, GitHub
-
-### Key Git Commands
-- **`git add`**
-- **`git push`**
-- **`git pull`**
-- **`git merge`**
-- **`git clone`**
-
-### GitHub & Portfolio Essentials
-- **Repositories (Repos):** Think of these as your project folders on the cloud.
-- **Branches:** Parallel versions of your project. Use these to experiment without breaking your main code.
-- **README.md:** The most important file. It’s your project’s "homepage" where you explain your insights and findings to recruiters.
-- **GitHub Pages:** A free way to host and show off your live data dashboards and portfolios.
-
-### Resources (Choose one Course)
-- [Learn Git and Github (Arabic):](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=8hXdJJI6H54oVb_X) Recommended YouTube playlist by **Osama Elzero**.
-- [Git & GitHub (Arabic):](https://almdrasa.com/tracks/programming-foundations/courses/git-github/) Free Course from **Almadrasa** by **Ahmed Fathy**.
-- [Big Data With Arabic | Git & GitHub (Arabic):](https://www.youtube.com/watch?v=Q6G-J54vgKc) 6-hour YouTube video by **Big Data بالعربي**.
 
 ---
 
