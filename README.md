@@ -48,7 +48,7 @@ To gain a solid foundations you must understand:
 
 #### Resources
 - [Data Literacy course by Maven Analytics](https://mavenanalytics.io/course/data-literacy-foundations)
-- [The Data Analysis Process](https://www.youtube.com/watch?v=UNoFXGxk3SI) Arabic video by Eng. Mohamed Elassal
+- [The Data Analysis Process](https://www.youtube.com/watch?v=UNoFXGxk3SI) Arabic video by **Eng. Mohamed Elassal**.
 - [What Does a Data Analyst Actually Do?](https://www.youtube.com/watch?v=ywZXpfdqg1o)
 
 ---
@@ -67,11 +67,11 @@ You **don’t need advanced statistics**, but you must understand:
 Goal: Understand what numbers are saying, not just calculate them.
 
 #### Resources (Choose one Course)
-- [Introduction to Statistics:](https://app.datacamp.com/learn/courses/introduction-to-statistics) 4-hour course from DataCamp (requires subscription).
-- [Introduction to Statistics:](https://mavenanalytics.io/course/statistics-for-data-analysis) 13-hour course from Maven Analytics (requires subscription)
-- [Statistics 1:](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=4EIuMCWDL-J07u6Q) Simple YouTube playlist from Simple Learning Pro.
-- [Foundation of Statistical Analysis:](https://youtube.com/playlist?list=PLVpJGVBmPnw3eRSzC90oXA6gBcG-nEYIe&si=dGQf1cRDuFW32Q3V) Comprehensive 14-hour Arabic YouTube playlist from Professor X.
-- [Statistics and Probability 101:](https://youtube.com/playlist?list=PL-cKUB-e2KiuXuUQ9POZoayIOV2oOs5GL&si=2Li9R9PBpuHOoQ8T) 6-hour Arabic YouTube playlist from ElhosseiniAcademy.
+- [Introduction to Statistics:](https://app.datacamp.com/learn/courses/introduction-to-statistics) 4-hour course from **DataCamp** (requires subscription).
+- [Introduction to Statistics:](https://mavenanalytics.io/course/statistics-for-data-analysis) 13-hour course from **Maven Analytics** (requires subscription)
+- [Statistics 1:](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=4EIuMCWDL-J07u6Q) Simple YouTube playlist from **Simple Learning Pro**.
+- [Foundation of Statistical Analysis (Arabic):](https://youtube.com/playlist?list=PLVpJGVBmPnw3eRSzC90oXA6gBcG-nEYIe&si=dGQf1cRDuFW32Q3V) Comprehensive 14-hour Arabic YouTube playlist from **Professor X**.
+- [Statistics and Probability 101 (Arabic):](https://youtube.com/playlist?list=PL-cKUB-e2KiuXuUQ9POZoayIOV2oOs5GL&si=2Li9R9PBpuHOoQ8T) 6-hour Arabic YouTube playlist from **ElhosseiniAcademy**.
 
 ---
 
@@ -90,11 +90,11 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 - Date & time functions
 
 #### Resources (Choose one Course)
-- [Excel Essentials:](https://youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&si=8zplj35CZRG6roah) Recommended Arabic YouTube playlist from Mohamed Alassal (Watch until the 20th video).
-- [Mastering Excel:](https://youtube.com/playlist?list=PLof3yw6ZFPFjik6ifGwXs68DLS60OPHYM&si=GOIUaBLSfTUMv-B1) Arabic YouTube playlist from ALmunthir Saffan.
-- [Excel for Beginners:](https://youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K&si=V1cE7bMnVYERK9Ip) Youtube playlist from Kevin Stratvert (Watch until the 37th video).
-- [Excel Foundations:](https://mavenanalytics.io/course/microsoft-excel-foundations) 9-hour course from Maven Analytics (requires subscription).
-- [Excel Fundamentals:](https://app.datacamp.com/learn/skill-tracks/excel-fundamentals) 16-hour skill track from DataCamp (requires subscription).
+- [Excel Essentials (Arabic):](https://youtube.com/playlist?list=PLXlHqMRg9lAYiiutr-Ou0J1uU20T-5a4-&si=8zplj35CZRG6roah) Recommended Arabic YouTube playlist from **Mohamed Alassal** (Watch until the 20th video).
+- [Mastering Excel (Arabic):](https://youtube.com/playlist?list=PLof3yw6ZFPFjik6ifGwXs68DLS60OPHYM&si=GOIUaBLSfTUMv-B1) Arabic YouTube playlist from **ALmunthir Saffan**.
+- [Excel for Beginners:](https://youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K&si=V1cE7bMnVYERK9Ip) Youtube playlist from **Kevin Stratvert** (Watch until the 37th video).
+- [Excel Foundations:](https://mavenanalytics.io/course/microsoft-excel-foundations) 9-hour course from **Maven Analytics** (requires subscription).
+- [Excel Fundamentals:](https://app.datacamp.com/learn/skill-tracks/excel-fundamentals) 16-hour skill track from **DataCamp** (requires subscription).
 
 ---
 
@@ -105,10 +105,10 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 - Dashboards in Excel
 
 #### Resources (Choose one Course)
-- [Data Analysis with Excel:](https://youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT&si=kROdukJApRFlwCX3) Recommended Arabic playlist from Mohamed Alassal.
-- [Power Query, Power Pivot & DAX:](https://mavenanalytics.io/course/power-query-power-pivot-dax) 12-hour golden course from Maven Analytics (requires subscription).
-- [Data Analysis with Excel Power Tools:](https://app.datacamp.com/learn/skill-tracks/data-analysis-with-excel-power-tools) 9-hour skill track from DataCamp (requires subscription).
-- [Excel for Data Analysis:](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=4384s) Comprehensive YouTube video from Luke Barousse.
+- [Data Analysis with Excel (Arabic):](https://youtube.com/playlist?list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT&si=kROdukJApRFlwCX3) Recommended Arabic playlist from **Mohamed Alassal**.
+- [Power Query, Power Pivot & DAX:](https://mavenanalytics.io/course/power-query-power-pivot-dax) 12-hour golden course from **Maven Analytics** (requires subscription).
+- [Data Analysis with Excel Power Tools:](https://app.datacamp.com/learn/skill-tracks/data-analysis-with-excel-power-tools) 9-hour skill track from **DataCamp** (requires subscription).
+- [Excel for Data Analysis:](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=4384s) Comprehensive YouTube video from **Luke Barousse**.
 
 ---
 
@@ -145,16 +145,16 @@ SQL is **mandatory** for data analysts.
 - Query optimization basics
 
 #### Resources (Choose one Course)
-- [SQL Ultimate Course (Highly Recommended)](https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=qMWNn-LxtR4F4cAj) If you watched this YouTube playlist, you will be a flying dragon in SQL at the end of the course.
-- [SQL Fundamentals](https://app.datacamp.com/learn/skill-tracks/sql-fundamentals) 26-hour course from DataCamp (requires subscription).
-- [Transact SQL Queries using SQL Server](https://maharatech.gov.eg/course/view.php?id=2288) A comprehensive well-known SQL course from ITI.
-- [MySQL Data Analysis](https://mavenanalytics.io/course/mysql-data-analysis) 8-hour course from Maven Analytics (requires subscription).
+- [SQL Ultimate Course (Highly Recommended):](https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=qMWNn-LxtR4F4cAj) If you watched this YouTube playlist, you will be a flying dragon in SQL at the end of the course.
+- [SQL Fundamentals:](https://app.datacamp.com/learn/skill-tracks/sql-fundamentals) 26-hour course from **DataCamp** (requires subscription).
+- [Transact SQL Queries using SQL Server (Arabic):](https://maharatech.gov.eg/course/view.php?id=2288) A comprehensive, well-known SQL course from **ITI**.
+- [MySQL Data Analysis:](https://mavenanalytics.io/course/mysql-data-analysis) 8-hour course from **Maven Analytics** (requires subscription).
 
 ---
 
 ## Phase 4: Python for Data Analysis
 
-Python is used for **automation, deeper analysis, and modeling**.
+Python is used for deeper analysis, data manipulation, data visualization, and AI.
 
 ### Python Basics
 - Variables & data types
@@ -164,10 +164,10 @@ Python is used for **automation, deeper analysis, and modeling**.
 - File handling
 
 #### Resources (Choose one Course)
-- [Mastering Python:](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=sFTNww_JqV93QraS) YouTube playlist from Osama Elzero.
-- [Master Python from Scratch:](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&si=Q3SrR9aoDXH4jM8f) YouTube playlist from Codezilla.
-- [Introduction to Python:](https://www.udacity.com/course/introduction-to-python--ud1110) 14-hours course from Udacity (Free).
-- [Python Programmer Bootcamp](https://learn.365datascience.com/courses/python-programmer-bootcamp) Complete Python course from 365 Data Science (requires subscription).
+- [Mastering Python (Arabic):](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=sFTNww_JqV93QraS) YouTube playlist from **Osama Elzero**.
+- [Master Python from Scratch (Arabic):](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&si=Q3SrR9aoDXH4jM8f) YouTube playlist from **Codezilla**.
+- [Introduction to Python:](https://www.udacity.com/course/introduction-to-python--ud1110) 14-hours course from **Udacity** (Free).
+- [Python Programmer Bootcamp](https://learn.365datascience.com/courses/python-programmer-bootcamp) Complete Python course from **365 Data Science** (requires subscription).
 
 ---
 
@@ -178,10 +178,8 @@ Python is used for **automation, deeper analysis, and modeling**.
 - Constructors (`__init__`).
 
 #### Resources (Choose one Course)
-- [OOP in Python (Arabic):](https://youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUD2) Comprehensive and logical breakdown by **Elzero Web School**.
-- [Python OOP Mastery (Arabic):](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) A practical, example-driven series by **Codezilla**.
-- [Object-Oriented Programming (English):](https://www.freecodecamp.org/news/object-oriented-programming-in-python/) A massive, project-based deep dive by **freeCodeCamp** (Free).
-- [OOP for Data Science:](https://learn.365datascience.com/courses/object-oriented-programming-python/) A professional-grade course by **365 Data Science** focused on dev-level Python (Subscription).
+- [Object-Oriented Programming in Python:](https://app.datacamp.com/learn/courses/object-oriented-programming-in-python) 4-hour course by **DataCamp**.
+- [Python OOP Mastery (Arabic):](https://youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1&si=RI3FIJd0Qod3kTT5) Practical YouTube course by **Codezilla**.
 
 ---
 
