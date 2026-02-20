@@ -116,7 +116,7 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 
 SQL is **mandatory** for data analysts.
 
-### SQL Basics
+### 3.1 SQL Basics
 - `SELECT`
 - `WHERE`
 - `ORDER BY`
@@ -125,7 +125,7 @@ SQL is **mandatory** for data analysts.
 
 ---
 
-### Intermediate SQL
+### 3.2 Intermediate SQL
 - `GROUP BY`
 - `HAVING`
 - Aggregate functions (`SUM`, `COUNT`, `AVG`)
@@ -138,7 +138,7 @@ SQL is **mandatory** for data analysts.
 
 ---
 
-### Advanced SQL
+### 3.3 Advanced SQL
 - Subqueries
 - CTEs (`WITH`)
 - Window functions (`ROW_NUMBER`, `RANK`, `LAG`)
@@ -156,7 +156,7 @@ SQL is **mandatory** for data analysts.
 
 Python is used for deeper analysis, data manipulation, data visualization, and AI.
 
-### Python Basics
+### 4.1 Python Basics
 - Variables & data types
 - Data Structures (Lists, tuples, dictionaries, ...)
 - Loops & conditions
@@ -171,7 +171,7 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 
 ---
 
-### Object-Oriented Programming (OOP)
+### 4.2 Object-Oriented Programming (OOP)
 - Classes & Objects
 - Mastering Inheritance, Polymorphism, Encapsulation, and Abstraction.
 - Methods & Attributes.
@@ -184,7 +184,7 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 
 ---
 
-### **NumPy** for numerical computing
+### 4.3 **NumPy** for numerical computing
 - Array indexing and slicing
 - Vectorization and broadcasting
 - Mathematical & statistical functions
@@ -197,7 +197,7 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 
 ---
 
-### **Pandas** for data manipulation
+### 4.4 **Pandas** for data manipulation
   - DataFrames
   - Filtering & grouping
   - Handling missing values
@@ -211,7 +211,7 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 
 ---
 
-### **Matplotlib / Seaborn** for visualization
+### 4.5 **Matplotlib / Seaborn** for visualization
 - Line & Scatter Plots
 - Bar & Pie Charts
 - Histograms & Box Plots
