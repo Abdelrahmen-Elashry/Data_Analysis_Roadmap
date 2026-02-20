@@ -23,35 +23,23 @@ But before diving into the tools, you should know the life cycle of the data fir
 
 ---
 
-## Overview
-
-Data Analysis is about:
-- Collecting data
-- Cleaning & transforming it
-- Analyzing patterns
-- Visualizing insights
-- Communicating results to support decision-making
-
-This roadmap is structured into **phases**, where each phase builds on the previous one.
-
----
-
-## Information about the resources in this roadmap
+## Info about the resources in this roadmap
 
 1. High-Impact Free Resources (YouTube)
 YouTube is a perfect resource for any Data Analyst. We highly recommend following these industry leaders:
 
-[Mohamed Alassal:](https://www.youtube.com/@mohamedalassaal)
+[Mohamed Alassal:](https://www.youtube.com/@mohamedalassaal) The father of Arabic learners, focusing on Data & Financial Analysis.
 
-[Almunthir Saffan:](https://www.youtube.com/@ALMunthirSaffan)
+[Almunthir Saffan:](https://www.youtube.com/@ALMunthirSaffan) Delivers concise, high-density Arabic tutorials. He is the go-to expert for mastering Power BI, Excel VBA, and Power Query through structured lessons.
 
-[Baraa Khatib:](https://www.youtube.com/@DataWithBaraa)
+[Baraa Khatib:](https://www.youtube.com/@DataWithBaraa) An ex-Mercedes-Benz Data Engineer who uses visual storytelling to simplify complex topics. His channel is unique for its hand-sketched explanations of SQL, Python, and Data Engineering concepts.
 
-[Alex the Analyst:](https://www.youtube.com/@AlexTheAnalyst)
+[Alex the Analyst:](https://www.youtube.com/@AlexTheAnalyst) Provides the most comprehensive end-to-end roadmap for data analysts. His content ranges from technical tool training (SQL, Tableau, Python) to actual portfolio-building projects and job search tips.
 
-[Maven Analytics:](https://www.youtube.com/@MavenAnalytics)
+[Maven Analytics:](https://www.youtube.com/@MavenAnalytics) The official channel of the popular learning platform, offering elite-level insights into Business Intelligence. They excel at teaching the "business side" of data, focusing on how to use tools like Power BI and SQL to drive real-world impact, led by Chris Dutton.
 
-[Kevin Stratvert](https://www.youtube.com/@KevinStratvert)
+[Kevin Stratvert](https://www.youtube.com/@KevinStratvert) An ex-Microsoft Product Manager. While he covers general tech, his tutorials on Excel, AI tools, and Microsoft 365 are world-class for anyone looking to master specific software features or productivity hacks.
+
 
 2. Premium Learning Platforms
 When you're ready for a more structured curriculum with certifications, these platforms are the heavy hitters:
@@ -67,6 +55,19 @@ Tip: You can apply for financial aid from a mobile to get the course 100% free o
 
 [365 Data Science:](https://365datascience.com/) A great all-in-one solution if you want a guided path from math and statistics all the way to machine learning.
 Tip: It is paid like the others, but you can wait for the free access weeks like the rest of the platforms.
+
+---
+
+## Overview
+
+Data Analysis is about:
+- Collecting data
+- Cleaning & transforming it
+- Analyzing patterns
+- Visualizing insights
+- Communicating results to support decision-making
+
+This roadmap is structured into **phases**, where each phase builds on the previous one.
 
 ---
 
