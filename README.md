@@ -34,7 +34,9 @@ Data Analysis is about:
 
 This roadmap is structured into **phases**, where each phase builds on the previous one.
 
-### Information about the resources in this roadmap
+---
+
+## Information about the resources in this roadmap
 
 1. High-Impact Free Resources (YouTube)
 YouTube is a perfect resource for any Data Analyst. We highly recommend following these industry leaders:
