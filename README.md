@@ -158,10 +158,30 @@ Python is used for **automation, deeper analysis, and modeling**.
 
 ### Python Basics
 - Variables & data types
-- Lists, tuples, dictionaries
+- Data Structures (Lists, tuples, dictionaries, ...)
 - Loops & conditions
 - Functions
 - File handling
+
+#### Resources (Choose one Course)
+- [Mastering Python:](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=sFTNww_JqV93QraS) YouTube playlist from Osama Elzero.
+- [Master Python from Scratch:](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&si=Q3SrR9aoDXH4jM8f) YouTube playlist from Codezilla.
+- [Introduction to Python:](https://www.udacity.com/course/introduction-to-python--ud1110) 14-hours course from Udacity (Free).
+- [Python Programmer Bootcamp](https://learn.365datascience.com/courses/python-programmer-bootcamp) Complete Python course from 365 Data Science (requires subscription).
+
+---
+
+### Object-Oriented Programming (OOP)
+- Classes & Objects
+- Mastering Inheritance, Polymorphism, Encapsulation, and Abstraction.
+- Methods & Attributes.
+- Constructors (`__init__`).
+
+#### Resources (Choose one Course)
+- [OOP in Python (Arabic):](https://youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUD2) Comprehensive and logical breakdown by **Elzero Web School**.
+- [Python OOP Mastery (Arabic):](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) A practical, example-driven series by **Codezilla**.
+- [Object-Oriented Programming (English):](https://www.freecodecamp.org/news/object-oriented-programming-in-python/) A massive, project-based deep dive by **freeCodeCamp** (Free).
+- [OOP for Data Science:](https://learn.365datascience.com/courses/object-oriented-programming-python/) A professional-grade course by **365 Data Science** focused on dev-level Python (Subscription).
 
 ---
 
@@ -171,15 +191,14 @@ Python is used for **automation, deeper analysis, and modeling**.
   - DataFrames
   - Filtering & grouping
   - Handling missing values
+  - Data transformation
 - **Matplotlib / Seaborn** → visualization
 
----
-
-### Data Cleaning
-- Handling missing data
-- Outliers detection
-- Data transformation
-- Encoding categorical variables
+#### Resources (Choose one Course)
+- [Data Analysis with Python (Arabic):](https://youtube.com/playlist?list=PLuXY3ddo_8nzp_s2GZ7TzM4uL9R38L4T_) A high-quality, practical series by **Codezilla**.
+- [Python for Data Analysis (Arabic):](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) Detailed library deep-dives by **Elzero Web School**.
+- [Data Analysis with Python Full Course:](https://youtu.be/r-uOLPPkpGk?si=hC4yB7C9_qfV_fGj) A comprehensive 10-hour practical bootcamp by **freeCodeCamp**.
+- [Python Data Analysis:](https://learn.365datascience.com/courses/python-data-analysis/) Professional certification track by **365 Data Science** (Subscription).
 
 ---
 
