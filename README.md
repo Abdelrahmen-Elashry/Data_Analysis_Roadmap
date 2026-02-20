@@ -76,7 +76,7 @@ Goal: Understand what numbers are saying, not just calculate them.
 
 ## Phase 2: Excel / Spreadsheets (Core Skill)
 
-Excel is still **heavily used in industry**.
+Excel is still **heavily used in industry**; if you master it, you will master the rest of the tools.
 
 ### Essential Skills
 - Data types & formatting
