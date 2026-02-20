@@ -23,42 +23,6 @@ But before diving into the tools, you should know the life cycle of the data fir
 
 ---
 
-## Info about the resources in this roadmap
-
-### High-Impact Free Resources (YouTube)
-YouTube is a perfect resource for any Data Analyst. We highly recommend following these industry leaders:
-
-[Mohamed Alassal:](https://www.youtube.com/@mohamedalassaal) The father of Arabic learners, focusing on Data & Financial Analysis.
-
-[Almunthir Saffan:](https://www.youtube.com/@ALMunthirSaffan) Delivers concise, high-density Arabic tutorials. He is the go-to expert for mastering Power BI, Excel VBA, and Power Query through structured lessons.
-
-[Baraa Khatib:](https://www.youtube.com/@DataWithBaraa) An ex-Mercedes-Benz Data Engineer who uses visual storytelling to simplify complex topics. His channel is unique for its hand-sketched explanations of SQL, Python, and Data Engineering concepts.
-
-[Alex the Analyst:](https://www.youtube.com/@AlexTheAnalyst) Provides the most comprehensive end-to-end roadmap for data analysts. His content ranges from technical tool training (SQL, Tableau, Python) to actual portfolio-building projects and job search tips.
-
-[Maven Analytics:](https://www.youtube.com/@MavenAnalytics) The official channel of the popular learning platform, offering elite-level insights into Business Intelligence. They excel at teaching the "business side" of data, focusing on how to use tools like Power BI and SQL to drive real-world impact, led by Chris Dutton.
-
-[Kevin Stratvert](https://www.youtube.com/@KevinStratvert) An ex-Microsoft Product Manager. While he covers general tech, his tutorials on Excel, AI tools, and Microsoft 365 are world-class for anyone looking to master specific software features or productivity hacks.
-
-
-### Premium Learning Platforms
-
-When you're ready for a more structured curriculum with certifications, these platforms are the heavy hitters:
-
-[Maven Analytics (Top Choice):](https://app.mavenanalytics.io/) Widely considered the best platform for Data Analysts.  
-Tip: While it is a paid service, they are known for the free access weeks, so keep an eye out to watch their high-quality content for free.
-
-[DataCamp:](https://app.datacamp.com/) Known for its interactive "learn-by-doing" coding environment.  
-Tip: DataCamp is very generous with scholarships and financial aid, making it highly accessible if you apply.
-
-[Coursera:](https://www.coursera.org/) The best platform for big organizations' courses like GOOGLE, IBM, Stanford University, etc.  
-Tip: You can apply for financial aid from a mobile to get the course 100% free or from a PC and get 90% discount.
-
-[365 Data Science:](https://365datascience.com/) A great all-in-one solution if you want a guided path from math and statistics all the way to machine learning.
-Tip: It is paid like the others, but you can wait for the free access weeks like the rest of the platforms.
-
----
-
 ## Overview
 
 Data Analysis is about:
@@ -151,7 +115,7 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 
 SQL is **mandatory** for data analysts.
 
-### 🔹 SQL Basics
+### SQL Basics
 - `SELECT`
 - `WHERE`
 - `ORDER BY`
@@ -160,7 +124,7 @@ SQL is **mandatory** for data analysts.
 
 ---
 
-### 🔹 Intermediate SQL
+### Intermediate SQL
 - `GROUP BY`
 - `HAVING`
 - Aggregate functions (`SUM`, `COUNT`, `AVG`)
@@ -173,16 +137,11 @@ SQL is **mandatory** for data analysts.
 
 ---
 
-### 🔹 Advanced SQL
+### Advanced SQL
 - Subqueries
 - CTEs (`WITH`)
 - Window functions (`ROW_NUMBER`, `RANK`, `LAG`)
 - Query optimization basics
-
-📌 **Project Ideas**
-- Analyze customer transactions
-- University database analysis
-- Sales performance reports
 
 ---
 
@@ -190,7 +149,7 @@ SQL is **mandatory** for data analysts.
 
 Python is used for **automation, deeper analysis, and modeling**.
 
-### 🔹 Python Basics
+### Python Basics
 - Variables & data types
 - Lists, tuples, dictionaries
 - Loops & conditions
@@ -199,7 +158,7 @@ Python is used for **automation, deeper analysis, and modeling**.
 
 ---
 
-### 🔹 Data Analysis Libraries
+### Data Analysis Libraries
 - **NumPy** → numerical computing
 - **Pandas** → data manipulation
   - DataFrames
@@ -209,16 +168,11 @@ Python is used for **automation, deeper analysis, and modeling**.
 
 ---
 
-### 🔹 Data Cleaning
+### Data Cleaning
 - Handling missing data
 - Outliers detection
 - Data transformation
 - Encoding categorical variables
-
-📌 **Project Ideas**
-- COVID data analysis
-- Sales trend analysis
-- Survey data analysis
 
 ---
 
@@ -226,7 +180,7 @@ Python is used for **automation, deeper analysis, and modeling**.
 
 Visualization turns analysis into **insight**.
 
-### 🔹 Visualization Principles
+### Visualization Principles
 - Choosing the right chart
 - Avoiding misleading visuals
 - Color theory
@@ -234,7 +188,7 @@ Visualization turns analysis into **insight**.
 
 ---
 
-### 🔹 BI Tools
+### BI Tools
 Choose **at least one**:
 - **Power BI**
 - **Tableau**
@@ -247,48 +201,24 @@ Skills to master:
 - Interactive dashboards
 - Filters & slicers
 
-📌 **Project Ideas**
-- Business KPI dashboard
-- Marketing performance dashboard
-- University analytics dashboard
-
 ---
 
 ## Phase 6: Business & Domain Knowledge
 
 A great analyst understands **context**, not just data.
 
-### 🔹 Business Skills
+### Business Skills
 - KPIs & metrics
 - Stakeholder communication
 - Translating insights into actions
 - Writing clear reports
 
-### 🔹 Domains (pick one or more)
+### Domains (pick one and master it)
 - Marketing analytics
 - Finance analytics
 - Healthcare analytics
 - Education analytics
 - Product analytics
-
----
-
-## Phase 7: Projects & Portfolio (VERY IMPORTANT)
-
-Your portfolio matters **more than certificates**.
-
-### 🔹 Portfolio Requirements
-- Problem statement
-- Dataset description
-- Cleaning steps
-- Analysis
-- Visualizations
-- Insights & recommendations
-
-📌 **Recommended Projects**
-- End-to-end business case
-- Real-world messy dataset
-- Dashboard + analysis report
 
 ---
 
@@ -305,9 +235,41 @@ Your portfolio matters **more than certificates**.
 - Markdown formatting
 - Visuals & screenshots
 
-📌 *Your GitHub is your CV.*
+---
+
+## Info about the resources in this roadmap
+
+### High-Impact Free Resources (YouTube)
+YouTube is a perfect resource for any Data Analyst. We highly recommend following these industry leaders:
+
+[Mohamed Alassal:](https://www.youtube.com/@mohamedalassaal) The father of Arabic learners, focusing on Data & Financial Analysis.
+
+[Almunthir Saffan:](https://www.youtube.com/@ALMunthirSaffan) Delivers concise Arabic tutorials for mastering Power BI, Excel VBA, and Power Query through structured lessons.
+
+[Baraa Khatib:](https://www.youtube.com/@DataWithBaraa) An ex-Mercedes-Benz Data Engineer who uses visual storytelling to simplify complex topics.
+
+[Alex the Analyst:](https://www.youtube.com/@AlexTheAnalyst) His content ranges from technical tool training to actual portfolio-building projects and job search tips.
+
+[Maven Analytics:](https://www.youtube.com/@MavenAnalytics) The official channel of the popular learning platform. They focus on teaching the "business side" of data.
+
+[Kevin Stratvert](https://www.youtube.com/@KevinStratvert) An ex-Microsoft Product Manager. Covers general tech, tutorials on Excel, AI tools, and Microsoft 365.
+
+### Premium Learning Platforms
+
+When you're ready for a more structured curriculum with certifications, these platforms are the heavy hitters:
+
+[Maven Analytics (Top Choice):](https://app.mavenanalytics.io/) Widely considered the best platform for Data Analysts.  
+Tip: While it is a paid service, they are known for the free access weeks, so keep an eye out to watch their high-quality content for free.
+
+[DataCamp:](https://app.datacamp.com/) Known for its interactive "learn-by-doing" coding environment.  
+Tip: DataCamp is very generous with scholarships and financial aid, making it highly accessible if you apply.
+
+[Coursera:](https://www.coursera.org/) The best platform for big organizations' courses like GOOGLE, IBM, Stanford University, etc.  
+Tip: You can apply for financial aid from a mobile to get the course 100% free or from a PC and get 90% discount.
+
+[365 Data Science:](https://365datascience.com/) A great all-in-one solution if you want a guided path from math and statistics all the way to machine learning.
+Tip: It is paid like the others, but you can wait for the free access weeks like the rest of the platforms.
 
 ---
 
-## ⭐ If this roadmap helped you
-Give this repo a **star ⭐** and share it with others!
+Made by [Abdelrahmen Elashry](https://github.com/Abdelrahmen-Elashry).
