@@ -188,18 +188,19 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 
 #### **NumPy** for numerical computing
 
-#### Resources (Choose one Course)
+##### Resources (Choose one Course)
 - [Learn Numpy in 1 hour:](https://www.youtube.com/watch?v=VXU4LSAQDSc) 1-hour YouTube video by **Bro Code**.
 - [Introduction to Numpy:](https://app.datacamp.com/learn/courses/introduction-to-numpy) 4-hour Course from **DataCamp** (You know what I will type here).
 - [Numpy | Osama Elzero](https://youtube.com/playlist?list=PLUgz8T_NoatsJCH-DmieQhqhSL2WBvlm-&si=peTE6uOE2XKfGF6T) 1-hour YouTube course from **Osama Elzero**.
 
+<br/>
 #### **Pandas** for data manipulation
   - DataFrames
   - Filtering & grouping
   - Handling missing values
   - Data transformation
   
-#### Resources (Choose one Course)
+##### Resources (Choose one Course)
 - [Data Manipulation with Pandas:](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas) 4-hour course from **DataCamp** (requires subscription).
 - [Pandas Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&si=JYWivPwbFG1nNZWt) 6-hours YouTube playlist by **Corey Schafer**
 - [Data Analysis with Python (Arabic):](https://youtube.com/playlist?list=PLof3yw6ZFPFg5W3Z3sv6GzY6WvvXBqtnD&si=st8BaWwv2hol-Gi5) YouTube playlist from **Almunthir Saffan**
@@ -207,7 +208,7 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 
 #### **Matplotlib / Seaborn** for visualization
 
-#### Resources (Choose one Course)
+##### Resources (Choose one Course)
 - [Introduction to Data Visualization with Matplotlib:](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) 4-hour course from **DataCamp** (requires subscription).
 - [Matplotlib Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=sCfulKEUT5IOYykP) 4-hours YouTube playlist by **Corey Schafer**.
 - [Introduction to Data Visualization with Seaborn:](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn) 4-hour course from **DataCamp** (requires subscription).
