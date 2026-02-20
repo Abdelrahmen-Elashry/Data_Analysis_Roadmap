@@ -52,24 +52,24 @@ To gain a solid foundations you must understand:
 
 ---
 
-## Phase 1: Math & Statistics
+## Phase 1: Statistics
 
-You **don’t need advanced math**, but you must understand:
+You **don’t need advanced statistics**, but you must understand:
 - Mean, Median, Mode
 - Variance & Standard Deviation
 - Percentiles & Quartiles
 - Probability basics
-- Correlation vs Causation
+- Correlation
 - Normal distribution
 - Sampling & Bias
 
-📌 *Goal:* Understand what numbers are saying, not just calculate them.
+📌 Goal: Understand what numbers are saying, not just calculate them.
 
 #### Resources (Choose at least one Course)
 - [Introduction to Statistics:](https://app.datacamp.com/learn/courses/introduction-to-statistics) 4-hour course from DataCamp (requires subscription).
 - [Statistics 1:](https://youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&si=4EIuMCWDL-J07u6Q) Simple YouTube playlist from Simple Learning Pro.
-- [Foundation of Statistical Analysis:](https://youtube.com/playlist?list=PLVpJGVBmPnw3eRSzC90oXA6gBcG-nEYIe&si=dGQf1cRDuFW32Q3V) Full YouTube playlist from Professor X.
-- [Statistics and Probability 101:](https://youtube.com/playlist?list=PL-cKUB-e2KiuXuUQ9POZoayIOV2oOs5GL&si=2Li9R9PBpuHOoQ8T) 6-hour YouTube playlist from ElhosseiniAcademy.
+- [Foundation of Statistical Analysis:](https://youtube.com/playlist?list=PLVpJGVBmPnw3eRSzC90oXA6gBcG-nEYIe&si=dGQf1cRDuFW32Q3V) Comprehensive 14-hour Arabic YouTube playlist from Professor X.
+- [Statistics and Probability 101:](https://youtube.com/playlist?list=PL-cKUB-e2KiuXuUQ9POZoayIOV2oOs5GL&si=2Li9R9PBpuHOoQ8T) 6-hour Arabic YouTube playlist from ElhosseiniAcademy.
 
 ---
 
