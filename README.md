@@ -112,7 +112,7 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 
 ---
 
-## Phase 3: SQL (Data Extraction)
+## Phase 3: SQL
 
 SQL is **mandatory** for data analysts.
 
@@ -143,6 +143,12 @@ SQL is **mandatory** for data analysts.
 - CTEs (`WITH`)
 - Window functions (`ROW_NUMBER`, `RANK`, `LAG`)
 - Query optimization basics
+
+#### Resources (Choose one Course)
+- [SQL Ultimate Course (Highly Recommended)](https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=qMWNn-LxtR4F4cAj) If you watched this YouTube playlist, you will be a flying dragon in SQL at the end of the course.
+- [SQL Fundamentals](https://app.datacamp.com/learn/skill-tracks/sql-fundamentals) 26-hour course from DataCamp (requires subscription).
+- [Transact SQL Queries using SQL Server](https://maharatech.gov.eg/course/view.php?id=2288) A comprehensive well-known SQL course from ITI.
+- [MySQL Data Analysis](https://mavenanalytics.io/course/mysql-data-analysis) 8-hour course from Maven Analytics (requires subscription).
 
 ---
 
