@@ -186,14 +186,14 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 
 ### Data Analysis Libraries
 
-- **NumPy** for numerical computing
+#### **NumPy** for numerical computing
 
 #### Resources (Choose one Course)
 - [Learn Numpy in 1 hour:](https://www.youtube.com/watch?v=VXU4LSAQDSc) 1-hour YouTube video by **Bro Code**.
 - [Introduction to Numpy:](https://app.datacamp.com/learn/courses/introduction-to-numpy) 4-hour Course from **DataCamp** (You know what I will type here).
 - [Numpy | Osama Elzero](https://youtube.com/playlist?list=PLUgz8T_NoatsJCH-DmieQhqhSL2WBvlm-&si=peTE6uOE2XKfGF6T) 1-hour YouTube course from **Osama Elzero**.
 
-- **Pandas** for data manipulation
+#### **Pandas** for data manipulation
   - DataFrames
   - Filtering & grouping
   - Handling missing values
@@ -205,7 +205,7 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 - [Data Analysis with Python (Arabic):](https://youtube.com/playlist?list=PLof3yw6ZFPFg5W3Z3sv6GzY6WvvXBqtnD&si=st8BaWwv2hol-Gi5) YouTube playlist from **Almunthir Saffan**
 - [Complete Pandas Tutorial:](https://www.youtube.com/watch?v=2uvysYbKdjM) 1.5-hour YouTube video by **Keith Galli**.
 
-- **Matplotlib / Seaborn** for visualization
+#### **Matplotlib / Seaborn** for visualization
 
 #### Resources (Choose one Course)
 - [Introduction to Data Visualization with Matplotlib:](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) 4-hour course from **DataCamp** (requires subscription).
