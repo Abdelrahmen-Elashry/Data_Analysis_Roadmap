@@ -185,6 +185,10 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 ---
 
 ### **NumPy** for numerical computing
+- Array indexing and slicing
+- Vectorization and broadcasting
+- Mathematical & statistical functions
+- Array reshaping and manipulation
 
 #### Resources (Choose one Course)
 - [Learn Numpy in 1 hour:](https://www.youtube.com/watch?v=VXU4LSAQDSc) 1-hour YouTube video by **Bro Code**.
@@ -207,9 +211,14 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 
 ---
 
-#### **Matplotlib / Seaborn** for visualization
+### **Matplotlib / Seaborn** for visualization
+- Line & Scatter Plots
+- Bar & Pie Charts
+- Histograms & Box Plots
+- Heatmaps & Correlation
+- Chart Customization
 
-##### Resources (Choose one Course)
+#### Resources (Choose one Course)
 - [Introduction to Data Visualization with Matplotlib:](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib) 4-hour course from **DataCamp** (requires subscription).
 - [Matplotlib Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&si=sCfulKEUT5IOYykP) 4-hours YouTube playlist by **Corey Schafer**.
 - [Introduction to Data Visualization with Seaborn:](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn) 4-hour course from **DataCamp** (requires subscription).
