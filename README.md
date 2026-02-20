@@ -114,7 +114,7 @@ Excel is still **heavily used in industry**; if you master it, you will master t
 
 ## Phase 3: SQL
 
-SQL is **mandatory** for data analysts.
+SQL is the industry-standard language for data analysts; it is mandatory for efficiently retrieving, manipulating, and performing complex analysis on large-scale datasets.
 
 ### 3.1 SQL Basics
 - `SELECT`
@@ -166,7 +166,7 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 #### Resources (Choose one Course)
 - [Mastering Python (Arabic):](https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&si=sFTNww_JqV93QraS) YouTube playlist from **Osama Elzero**.
 - [Master Python from Scratch (Arabic):](https://youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&si=Q3SrR9aoDXH4jM8f) YouTube playlist from **Codezilla**.
-- [Introduction to Python:](https://www.udacity.com/course/introduction-to-python--ud1110) 14-hours course from **Udacity** (Free).
+- [Python Ultimate Course:](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn) YouTube playlist by **Data with Baraa**.
 - [Python Programmer Bootcamp](https://learn.365datascience.com/courses/python-programmer-bootcamp) Complete Python course from **365 Data Science** (requires subscription).
 
 ---
@@ -228,28 +228,26 @@ Python is used for deeper analysis, data manipulation, data visualization, and A
 
 ## Phase 5: Data Visualization & BI Tools
 
-Visualization turns analysis into **insight**.
+Visualization is the bridge between raw data and action; it transforms complex analysis into clear insights that drive decision-making.
 
-### Visualization Principles
-- Choosing the right chart
-- Avoiding misleading visuals
-- Color theory
-- Storytelling with data
-
----
-
-### BI Tools
-Choose **at least one**:
-- **Power BI**
-- **Tableau**
-- **Looker Studio**
-
-Skills to master:
+### Skills to master:
 - Data modeling
 - Relationships
 - Measures & calculations
 - Interactive dashboards
 - Filters & slicers
+
+### BI Tools
+Choose **at least one**:
+- **Power BI**
+- **Tableau**
+
+### Resources (Choose one Course)
+- [Data Analysis with Power BI (Arabic):](https://youtube.com/playlist?list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3&si=l5RcaAwGLLBJQBrq) YouTube playlist by **Mohamed Alassal**.
+- [Introduction to Power BI:](https://app.datacamp.com/learn/courses/introduction-to-power-bi) 4-hour course from **DataCamp** (requires subscription).
+- [Power BI Tutorials:](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) YouTube playlist by **Alex the Analyst**.
+- [Tableau Ultimate Course:](https://youtube.com/playlist?list=PLNcg_FV9n7qZJqrKcUUCWCWPYCrlcVm9v&si=pCcz1bizjzIdB9F1) YouTube playlist by **Data with Baraa**.
+- [Introduction to Tableau:](https://app.datacamp.com/learn/courses/introduction-to-tableau) 6-hour course from **DataCamp** (requires subscription).
 
 ---
 
@@ -274,11 +272,25 @@ A great analyst understands **context**, not just data.
 
 ## Phase 7: Git, GitHub
 
-### Git Basics
-- Repositories
-- Commits
-- Branches
-- README files
+### Key Git Commands
+- **`git init`**: Initializes a new local repository. This is where the magic begins.
+- **`git add`**: The "Staging" area. It tells Git which changes you want to include in your next snapshot.
+- **`git commit`**: The "Save" point. Records your staged changes with a descriptive message (e.g., "Cleaned null values in sales data").
+- **`git push`**: Uploads your local commits to a remote server like **GitHub**. This is how you share your work.
+- **`git pull`**: The opposite of push. It "grabs" the latest changes from GitHub and merges them into your local machine.
+- **`git merge`**: Combines work from different branches (e.g., merging a "feature" branch back into your "main" project).
+- **`git clone`**: Downloads an existing project from GitHub to your computer so you can start working on it.
+
+### GitHub & Portfolio Essentials
+- **Repositories (Repos):** Think of these as your project folders on the cloud.
+- **Branches:** Parallel versions of your project. Use these to experiment without breaking your main code.
+- **README.md:** The most important file. It’s your project’s "homepage" where you explain your insights and findings to recruiters.
+- **GitHub Pages:** A free way to host and show off your live data dashboards and portfolios.
+
+### Resources (Choose one Course)
+- [Learn Git and Github (Arabic):](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=8hXdJJI6H54oVb_X) Recommended YouTube playlist by **Osama Elzero**.
+- [Git & GitHub (Arabic):](https://almdrasa.com/tracks/programming-foundations/courses/git-github/) Free Course from **Almadrasa** by **Ahmed Fathy**.
+- [Big Data With Arabic | Git & GitHub (Arabic):](https://www.youtube.com/watch?v=Q6G-J54vgKc) 6-hour YouTube video by **Big Data بالعربي**.
 
 ---
 
