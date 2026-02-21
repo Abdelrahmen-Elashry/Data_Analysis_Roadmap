@@ -146,7 +146,7 @@ SQL is the industry-standard language for data analysts; it is mandatory for eff
 
 #### Resources (Choose one Course)
 - [SQL Ultimate Course (Highly Recommended):](https://youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&si=qMWNn-LxtR4F4cAj) If you watched this YouTube playlist, you will be a flying dragon in SQL at the end of the course.
-- [SQL Fundamentals:](https://app.datacamp.com/learn/skill-tracks/sql-fundamentals) 26-hour course from **DataCamp** (requires subscription).
+- [SQL Fundamentals:](https://app.datacamp.com/learn/skill-tracks/sql-fundamentals) 26-hour skill track from **DataCamp** (requires subscription).
 - [Transact SQL Queries using SQL Server (Arabic):](https://maharatech.gov.eg/course/view.php?id=2288) A comprehensive, well-known SQL course from **ITI**.
 - [MySQL Data Analysis:](https://mavenanalytics.io/course/mysql-data-analysis) 8-hour course from **Maven Analytics** (requires subscription).
 
